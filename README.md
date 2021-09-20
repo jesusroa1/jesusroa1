@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jesusroa1
 - 👀 I’m interested in Industrial Engineering, Process Engineering, Data Analysis, and Data Engineering
-- 🌱 I’m currently learning in depth SQL and Data Engineering Concepts (Data Plumbing is pretty cool!)
+- 🌱 I’m currently learning in depth SQL and Data Engineering Concepts (Data Plumbing is pretty cool!). I'll also ocassionally use this github to store scripts that have been useful for me (such as the Video-to-PDF converter)
 - 📫 Reach me by email at jesusroa.us@gmail.com
 - ✨ Check out my personal website at jesusroa1.github.io  ... It actually uses github pages to host it :)
 
